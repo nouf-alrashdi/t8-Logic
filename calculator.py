@@ -4,6 +4,7 @@ A = x + y
 S = x - y
 M = x * y
 D = x / y
+P = x ** y
 print("substraction:" , S)
 print("Multiplication:" , M)
 print("Addition:" , A)
